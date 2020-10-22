@@ -1,0 +1,2 @@
+# MarinaApp
+MIT proposal
